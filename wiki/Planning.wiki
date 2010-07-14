@@ -1,0 +1,49 @@
+#summary Complete listing of pages and modules in the system.
+
+= Plan =
+
+Add your content here.
+
+Modules:
+
+ - Authorisation
+	~ Login
+	~ Logout
+	~ Register
+	    # First Name
+	    # Last Name
+	    # Email Address
+	    # Confirm Email Address
+	    # Country
+	    # Password
+	    # Confirm Password
+	~ Verify Email
+	    # Confirmation email with link sent to email address (Can be set to on or off in the site settings)
+
+ - User Control Panel
+	~ Edit account details
+	    # Name's
+	    # Country
+	    # Email
+	    # Password
+
+ - Sim Management (CO Control Panel)
+	~ List Sims
+	~ Edit Sim
+	    # Name
+	    # URL
+	    # CO
+	    # XO
+	    # Banner (with options to upload / external link)
+	    # Description
+	    # Platform (SMS, Nova 1.0, Nova 2.0)
+	    # Mod Status (Installed / Not Installed)
+	    # Sim Status (Active, Inactive)
+
+	~ Reports (CO Control Panel)
+	    # List
+	    # New
+	    # Edit
+	    # Send
+	    # Save
+	    # Delete
