@@ -7,9 +7,9 @@ Add your content here.
 Modules:
 
  - Authorisation
-	@ Login
-	@ Logout
-	@ Register
+	* Login
+	* Logout
+	* Register
 	    # First Name
 	    # Last Name
 	    # Email Address
