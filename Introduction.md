@@ -1,0 +1,3 @@
+# Introduction #
+
+Aurora FMS is a fleet management system for play by email Simulations. It will be multi genre and powerful. It will have editable registration and sim profile pages. It iwll also have multipul templates.
